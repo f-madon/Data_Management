@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href="http://datascience.disco.unimib.it/it/"><img src ="https://github.com/emanuelaelli/Data_Management/blob/main/images/DataScienceUnimib.png" width = "100%"></a>
+  <a href="http://datascience.disco.unimib.it/it/"><img src ="https://github.com/emanuelaelli/Data_Management/blob/main/images/DataScienceUnimib.png" width = "45%"></a>
 </p>
 <p align="center">
   <img src="https://github.com/emanuelaelli/Data_Management/blob/main/images/Loading.png" width="25%">
