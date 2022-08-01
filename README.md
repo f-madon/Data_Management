@@ -1,9 +1,9 @@
 <p align = "left">
-  <a href="http://datascience.disco.unimib.it/it/"><img src ="https://github.com/emanuelaelli/Data_Management/blob/main/images/DataScienceUnimib.png" width = "45%"></a>
+  <a href="http://datascience.disco.unimib.it/it/"><img src ="https://github.com/emanuelaelli/Data_Management/blob/main/images/background.png" width = "100%"></a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/emanuelaelli/Data_Management/blob/main/images/Loading.png" width="25%">
-</p> 
+</p> -->
   <h6 align="center">a Data Management Project</h6>
 <p align="center">
   <a href="#overview">Overview &nbsp;</a> |
